@@ -15,6 +15,6 @@ Unfortunately, some people can't access the website, so I wanted to make sure pe
 #Colaboration of blooket hacks from around the world
 
 
-CREDITS:
+# CREDITS:
 
 ZasticBraydn for the Blooket UI
