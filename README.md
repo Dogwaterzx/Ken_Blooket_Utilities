@@ -11,3 +11,5 @@ Some of these hacks are mine BUT NOT ALL!
 I got some of these hacks at schoolcheats.net
 
 Unfortunately, some people can't access the website, so I wanted to make sure people have access.
+
+#Colaboration of blooket hacks from around the world
