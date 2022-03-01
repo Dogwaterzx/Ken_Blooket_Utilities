@@ -10,6 +10,10 @@ Lets you see the names and pictures of all the blooks in the game currently, whe
 
 This script lets you use any blook, whether limited or obtainable in a live lobby!
 
+# bypassRandomNames.js
+
+Hack lets you bypass the random names factor in the live lobby, so you can choose your own names!  Sadly, due to changes on Blooket, this hack is often down.
+
 # completeHomework.js
 
 completes your homework goal instantly so you wouldn't have to spend the time grinding for it!
