@@ -26,6 +26,10 @@ Lets you flood the live lobby with bots that you can name and number!
 
 This special hack lets you get every answer correct!  Our team is currently also working on an autoAnswer.js HACK!
 
+# hackMenu.js
+
+Script lets you access all the hacks!  NOTE: ONLY USE IF UI IS NOT WORKING!
+
 # sellDupeBlooks.js
 
 Using this hack often is not reccomended.  You can use it sometimes, but due to some changes on Blooket, this hack might get your account suspended or banned for a period of time!
