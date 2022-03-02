@@ -1,6 +1,6 @@
 (async () => {
 
-    alert("Made by: glizzz_y#0777");
+    alert("Made by: Ken");
     const hwid = prompt('Please input the HWID');
 
     const GetAnswers = await fetch(`https://api.blooket.com/api/homeworks/byid?id=${hwid}`, {
