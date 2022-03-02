@@ -18,3 +18,5 @@ Unfortunately, some people can't access the website, so I wanted to make sure pe
 # CREDITS:
 
 ZasticBraydn for the Blooket UI
+
+Since I couldn't figure out how to code some of the Utilities, glizzz_y#0777 and Sean V#9999 were kind enough to let me use their scripts!
