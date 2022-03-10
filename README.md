@@ -26,3 +26,8 @@ Big thanks to @ThatFruedDued for his amazing injectables.
 # DISCLAIMER (IMPORTANT)
 
 Lately, blooket has been banning lots of people for using hacks.  If you get banned while using any of my hacks, I will not take responsibilities.
+
+# I am quiting Blooket
+
+Why: My main account got suspended so peace <3
+Love y'all
