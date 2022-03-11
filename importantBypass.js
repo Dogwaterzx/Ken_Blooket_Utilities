@@ -1,4 +1,4 @@
-/ coded by ken lol /
+/ coded by ZB lol /
 window.alert = function(str) {
     bypass = document.body.appendChild(document.createElement("iframe")).contentWindow.alert;
     bypass(str)
