@@ -27,3 +27,7 @@ Lately, blooket has been banning lots of people for using hacks.  If you get ban
 
 Why: My main account got suspended so peace <3
 Love y'all
+
+# I am quitting GITHUB now
+
+Have lots of schoolwork and can't focus
