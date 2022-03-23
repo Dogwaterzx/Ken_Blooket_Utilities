@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+html {
+    font-family:'Nunito' !important;
+    background-color:rgb(9, 2, 48);
+    overflow-y:scroll;
+}
+input {
+    outline:none;
+    border: none;
+    background-color:deeppink;
+    border-radius:7px;
+    height:30px;
+    font-family:'Nunito' !important;
+    font-weight:600;
+    font-size:15px;
+    width:250px;
+}
+::-webkit-scrollbar {
+    border-radius:1px;
+}
+.midbox {
+    position:absolute;
+    display:flex;
+    flex-direction:column;
+    top:65%;
+    left:50%;
+    transform:translate(-50%, -50%);
+    vertical-align: middle;
+    align-items:center;
+}
+
+button {
+    border-radius: 15px;
+    display: inline-flex;
+    align-items: center;
+    background-color:rgb(20, 100, 220);
+    justify-content: center;
+    font-family: 'Nunito';
+    font-weight: bolder;
+    text-align: center;
+    text-decoration: none;
+    border: 0.67rem solid transparent;
+    border-radius: 7px;
+    text-decoration: none;
+    position: relative;
+    margin: 5px;
+}
+
+button:hover {
+    cursor: pointer !important;
+    background-color: rgb(12, 76, 172);
+}
+
+.row {
+    display:flex;
+    position:relative;
+    flex-direction:row;
+}
+
+.row button {
+    width:175px;
+}
