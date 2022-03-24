@@ -23,11 +23,6 @@ Since I couldn't figure out how to code some of the Utilities, glizzz_y#0777 and
 
 Lately, blooket has been banning lots of people for using hacks.  If you get banned while using any of my hacks, I will not take responsibilities.
 
-# I am quiting Blooket
+# No more hacks
 
-Why: My main account got suspended so peace <3
-Love y'all
-
-# I am quitting GITHUB now
-
-Have lots of schoolwork and can't focus
+Gliz made me take down my other blooket repo.  I won't be making hacks and cheats for blooket anymore.  Baiii Zastix <3
